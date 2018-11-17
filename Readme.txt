@@ -1,0 +1,1 @@
+This code is a simple java implementation of a linked list.
